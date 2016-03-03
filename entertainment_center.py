@@ -28,6 +28,6 @@ the_imitation_game = media.Movie("The Imitation Game", "The story of legendary W
 the_man_who_knew_infinity = media.Movie("The Man Who Knew Infinity", "A story showcasing the life of Srinivasa Ramanujan, an obscure, self-taught mathematician from India",
 	              "https://s-media-cache-ak0.pinimg.com/originals/1a/1f/d5/1a1fd5698898700e2230e6cfef2235a5.jpg",
 	              "https://www.youtube.com/watch?v=kLEyxQv3l0U")
-#lastly, (phew!) this class (above in lines 28-30), is about a superbly intelligent mathematician from India who discovered alot of maths on his own "as described by the .storyline". This is a class derived from media.py
+#lastly, this class (above in lines 28-30), is about a superbly intelligent mathematician from India who discovered alot of maths on his own "as described by the .storyline". This is a class derived from media.py
 movies = [wolf_of_wall_st, the_great_gatsby, the_social_network, a_beautiful_mind, the_imitation_game, the_man_who_knew_infinity]
 fresh_tomatoes.open_movies_page(movies)
